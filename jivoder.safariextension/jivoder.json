@@ -1,0 +1,6 @@
+[
+  { "action": { "type": "block" },
+    "trigger": { "url-filter": "code.jivosite.com/script/widget/" } },
+  { "action": { "type": "block" },
+    "trigger": { "url-filter": "static.olark.com/js/wc.js" } }
+]
