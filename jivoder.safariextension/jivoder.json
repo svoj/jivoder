@@ -2,5 +2,7 @@
   { "action": { "type": "block" },
     "trigger": { "url-filter": "code.jivosite.com/script/widget/" } },
   { "action": { "type": "block" },
-    "trigger": { "url-filter": "static.olark.com/js/wc.js" } }
+    "trigger": { "url-filter": "static.olark.com/js/wc.js" } },
+  { "action": { "type": "block" },
+    "trigger": { "url-filter": "livetex.ru/js/client.js" } }
 ]
