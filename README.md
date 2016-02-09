@@ -13,3 +13,4 @@ according to svoj's rating.
 - blocks JivoSite pop-pups
 - blocks Olark pop-ups
 - blocks livetex pop-ups
+- blocks cleversite pop-ups

@@ -4,5 +4,7 @@
   { "action": { "type": "block" },
     "trigger": { "url-filter": "static.olark.com/js/wc.js" } },
   { "action": { "type": "block" },
-    "trigger": { "url-filter": "livetex.ru/js/client.js" } }
+    "trigger": { "url-filter": "livetex.ru/js/client.js" } },
+  { "action": { "type": "block" },
+    "trigger": { "url-filter": "cleversite.ru/cleversite/widget_new.php" } }
 ]
