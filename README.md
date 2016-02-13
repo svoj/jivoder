@@ -14,3 +14,4 @@ according to svoj's rating.
 - blocks Olark pop-ups
 - blocks livetex pop-ups
 - blocks cleversite pop-ups
+- blocks perezvoni.com pop-ups

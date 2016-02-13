@@ -6,5 +6,7 @@
   { "action": { "type": "block" },
     "trigger": { "url-filter": "livetex.ru/js/client.js" } },
   { "action": { "type": "block" },
-    "trigger": { "url-filter": "cleversite.ru/cleversite/widget_new.php" } }
+    "trigger": { "url-filter": "cleversite.ru/cleversite/widget_new.php" } },
+  { "action": { "type": "block" },
+    "trigger": { "url-filter": "perezvoni.com/files/widgets/" } }
 ]
