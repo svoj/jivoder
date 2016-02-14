@@ -15,3 +15,4 @@ according to svoj's rating.
 - blocks livetex pop-ups
 - blocks cleversite pop-ups
 - blocks perezvoni.com pop-ups
+- blocks onicon.ru pop-ups

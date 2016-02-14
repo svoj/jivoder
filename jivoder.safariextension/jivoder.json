@@ -8,5 +8,7 @@
   { "action": { "type": "block" },
     "trigger": { "url-filter": "cleversite.ru/cleversite/widget_new.php" } },
   { "action": { "type": "block" },
-    "trigger": { "url-filter": "perezvoni.com/files/widgets/" } }
+    "trigger": { "url-filter": "perezvoni.com/files/widgets/" } },
+  { "action": { "type": "block" },
+    "trigger": { "url-filter": "cp.onicon.ru/js/" } }
 ]
